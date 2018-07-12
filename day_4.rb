@@ -19,3 +19,4 @@ class User
 end
 
 lyllian = User.new("Lyllian","Lyllian1@gmail.com","art4life","user42","14")
+puts lyllyian
