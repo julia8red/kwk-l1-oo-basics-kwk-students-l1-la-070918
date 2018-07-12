@@ -9,3 +9,5 @@ class User
     @age = age
   end
 end
+
+Lyllian = User.new("Lyllian","Lyllian1@gmail.com","art4life","14")
